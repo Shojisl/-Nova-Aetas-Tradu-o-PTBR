@@ -1,0 +1,385 @@
+﻿p_zendar|Zendar
+p_town_1|Sargoth
+p_town_2|Tihr
+p_town_3|Veluca
+p_town_4|Sunos
+p_town_5|Jalkele
+p_town_6|Praven
+p_town_7|Aldeburgh
+p_town_8|Reyvadin
+p_town_9|Nevgered
+p_town_10|Tulga
+p_town_11|Curaw
+p_town_12|Wercheg
+p_town_13|Rivacheg
+p_town_14|Halmar
+p_town_15|Yalen
+p_town_16|Dhirhim
+p_town_17|Ichamur
+p_town_18|Narma
+p_town_19|Hashalla
+p_town_20|Durquba
+p_town_21|Ahmerrad
+p_town_22|Bariyye
+p_town_23|Aztlan
+p_town_24|Axocopan
+p_town_25|Ixtepexi
+p_town_26|Zendar
+p_town_27|Aldurias
+p_town_28|Mithridias
+p_town_29|Hierosolyma
+p_castle_1|Castelo Culmarr
+p_castle_2|Castelo Majarin
+p_castle_3|Castelo Num Talbar
+p_castle_4|Castelo Radoghir
+p_castle_5|Castelo Tehlrog
+p_castle_6|Castelo Tilbaut
+p_castle_7|Castelo Sungetche
+p_castle_8|Castelo Deirbe
+p_castle_9|Castelo Jamiche
+p_castle_10|Castelo Alburq
+p_castle_11|Castelo Curin
+p_castle_12|Castelo Chalbek
+p_castle_13|Castelo Heredith
+p_castle_14|Castelo Maras
+p_castle_15|Castelo Ergellon
+p_castle_16|Castelo Almerra
+p_castle_17|Castelo Distar
+p_castle_18|Castelo Ismirala
+p_castle_19|Castelo Yruma
+p_castle_20|Castelo Derchios
+p_castle_21|Castelo Danmion
+p_castle_22|Castelo Nuqilin
+p_castle_23|Castelo Tevarin
+p_castle_24|Castelo Reindi
+p_castle_25|Castelo Ryibelet
+p_castle_26|Castelo Senuzgda
+p_castle_27|Castelo Rindyar
+p_castle_28|Castelo Grunwalder
+p_castle_29|Castelo Nelag
+p_castle_30|Castelo Asugan
+p_castle_31|Castelo Vyincourd
+p_castle_32|Castelo Knudarr
+p_castle_33|Castelo Etrosq
+p_castle_34|Castelo Hrus
+p_castle_35|Castelo Haringoth
+p_castle_36|Castelo Jelbegi
+p_castle_37|Castelo Dramug
+p_castle_38|Castelo Ansdroth
+p_castle_39|Castelo Slezkh
+p_castle_40|Castelo Tellos
+p_castle_41|Castelo Ashinipaq
+p_castle_42|Castelo Jemehra
+p_castle_43|Castelo Sharwa
+p_castle_44|Castelo Durrin
+p_castle_45|Castelo Caraf
+p_castle_46|Castelo Weyyah
+p_castle_47|Castelo Samarra
+p_castle_48|Castelo Bardaq
+p_castle_49|Telela
+p_castle_50|Tochtepec
+p_castle_51|Toluca
+p_castle_52|Huexotla
+p_castle_53|Drachenburg
+p_castle_player_a|Canteiro de Obras
+p_castle_player_b|Canteiro de Obras
+p_castle_player_c|Canteiro de Obras
+p_castle_player_d|Canteiro de Obras
+p_castle_player_e|Canteiro de Obras
+p_castle_player_f|Canteiro de Obras
+p_castle_60|Castelo Waldemar
+p_castle_61|Sylpheia
+p_castle_62|Agostinei
+p_castle_63|Demetreion
+p_castle_64|Corinthas
+p_castle_65|Ashkalon
+p_castle_66|Teregryt
+p_castle_67|Antalech
+p_castle_68|Tardus
+p_village_1|Yaragar
+p_village_2|Burglen
+p_village_3|Azgad
+p_village_4|Nomar
+p_village_5|Kulum
+p_village_6|Emirin
+p_village_7|Amere
+p_village_8|Haen
+p_village_9|Buvran
+p_village_10|Mechin
+p_village_11|Dusturil
+p_village_12|Emer
+p_village_13|Nemeja
+p_village_14|Sumbuja
+p_village_15|Ryibelet
+p_village_16|Shapeshte
+p_village_17|Mazen
+p_village_18|Prusitena
+p_village_19|Hanun
+p_village_20|Uslum
+p_village_21|Bazeck
+p_village_22|Shulus
+p_village_23|Ilvia
+p_village_24|Ruldi
+p_village_25|Dashbigha
+p_village_26|Radigor
+p_village_27|Glunmar
+p_village_28|Tash Kulun
+p_village_29|Buillin
+p_village_30|Ruvar
+p_village_31|Ambean
+p_village_32|Tosdhar
+p_village_33|Ruluns
+p_village_34|Ehlerdah
+p_village_35|Fearichen
+p_village_36|Jayek
+p_village_37|Ada Kulun
+p_village_38|Ibiran
+p_village_39|Reveran
+p_village_40|Saren
+p_village_41|Dugan
+p_village_42|Dirigh Aban
+p_village_43|Zagush
+p_village_44|Peshmi
+p_village_45|Bulugur
+p_village_46|Fedner
+p_village_47|Epeshe
+p_village_48|Veidar
+p_village_49|Tismirr
+p_village_50|Karindi
+p_village_51|Jelbegi
+p_village_52|Amashke
+p_village_53|Balanli
+p_village_54|Chogodimor
+p_village_55|Tadsamesh
+p_village_56|Fenada
+p_village_57|Tempore
+p_village_58|Vezin
+p_village_59|Dumar
+p_village_60|Tahlberl
+p_village_61|Aldelen
+p_village_62|Rebache
+p_village_63|Rduna
+p_village_64|Serindiar
+p_village_65|Iyindah
+p_village_66|Fisdnar
+p_village_67|Tebandra
+p_village_68|Ibdeles
+p_village_69|Kwynn
+p_village_70|Dirigsene
+p_village_71|Tshibtin
+p_village_72|Altburgh
+p_village_73|Chaeza
+p_village_74|Ayyike
+p_village_75|Bhulaban
+p_village_76|Kedelke
+p_village_77|Rizi
+p_village_78|Sarimish
+p_village_79|Istiniar
+p_village_80|Vayejeg
+p_village_81|Odasan
+p_village_82|Yalibe
+p_village_83|Nader
+p_village_84|Chelez
+p_village_85|Ismirala
+p_village_86|Slezkh
+p_village_87|Alegr
+p_village_88|Tulbuk
+p_village_89|Uhhun
+p_village_90|Jamiche
+p_village_91|Ayn Assuadi
+p_village_92|Dhibbain
+p_village_93|Qalyut
+p_village_94|Mazigh
+p_village_95|Tamnuh
+p_village_96|Habbas
+p_village_97|Sekhtem
+p_village_98|Mawiti
+p_village_99|Fishara
+p_village_100|Iqbayl
+p_village_101|Uzgha
+p_village_102|Shibal Zumr
+p_village_103|Mijayet
+p_village_104|Tazjunat
+p_village_105|Aahberg
+p_village_106|Hawaha
+p_village_107|Unriya
+p_village_108|Mitnushun
+p_village_109|Tilimsal
+p_village_110|Rushdigh
+p_village_111|Yoaltepec
+p_village_112|Tochpan
+p_village_113|Tocatlatlan
+p_village_114|Tlachco
+p_village_115|Tlaxiaco
+p_village_116|Oxitipan
+p_village_117|Ptaxia
+p_village_118|Miahuatlan
+p_village_119|Padria
+p_village_120|Coloia
+p_village_121|Fontym
+p_village_122|Sagunta
+p_village_123|Cedrus
+p_village_124|Apuas
+p_village_125|Atheion
+p_village_126|Velentia
+p_village_127|Nusqua
+p_village_128|Efesa
+p_village_129|Theologicon
+p_village_130|Mayerne
+p_village_131|Sepphoris
+p_village_132|Achsaph
+p_village_133|Nazareth
+p_village_134|Succoth
+p_village_135|Penuel
+p_village_136|Cana
+p_salt_mine|Mina de Sal
+p_four_ways_inn|Pousada As Quatro Direções
+p_test_scene|cenário de teste
+p_battlefields|Campos de Batalha
+p_dhorak_keep|Forte Dhorak
+p_training_ground|Campo de Treinamento
+p_training_ground_1|Campo de Treinamento
+p_training_ground_2|Campo de Treinamento
+p_training_ground_3|Campo de Treinamento
+p_training_ground_4|Campo de Treinamento
+p_training_ground_5|Campo de Treinamento
+p_steppe_bandit_spawn_point|as estepes
+p_taiga_bandit_spawn_point|a tundra
+p_forest_bandit_spawn_point|as florestas
+p_mountain_bandit_spawn_point|o planalto
+p_sea_raider_spawn_point_1|a costa
+p_sea_raider_spawn_point_2|a costa
+p_desert_bandit_spawn_point|os desertos
+p_colony_1|Ilha Pandum
+p_colony_2|Ilha Cortiça
+p_colony_3|Nova Praven
+p_colony_4|Samand
+p_colony_5|Ilha Nova
+p_colony_6|Ilha Senja
+p_colony_7|Ilha Allus
+p_colony_8|Eztes
+p_colony_9|Fernandina
+p_colony_10|Coiba
+p_colony_11|Asmura
+p_colony_12|Fjoror
+p_colony_13|Santiagon
+p_colony_14|Araghion
+p_colony_15|Fidelphia
+p_colony_16|Alia
+p_colony_17|Fergion
+p_colony_end|Fim das Colônias
+p_jungle_santiagon|Selva
+p_jungle_fernandina|Selva
+p_jungle_mainland|Selva
+p_lost_town_a|Cidade Esquecida de Axtihuatl
+p_lost_town_b|Cidade Perdida de Izto
+p_island_statues|Estátuas Mohtai
+p_island_tribal|Cidade Tribal
+p_tower_istmur|Torre de Istmur
+p_beacon_1|Farol Agônico
+p_beacon_2|Farol Agônico
+p_beacon_3|Farol Agônico
+p_beacon_4|Farol Agônico
+p_beacon_5|Farol Agônico
+p_beacon_6|Farol Agônico
+p_beacon_7|Farol Agônico
+p_beacon_end|REPORTE ESSE BUG!
+p_ancient_capital|Ruínas Antigas
+p_calrad_aqueduct|Grande Aqueduto
+p_uxkhal_ruins|Ruínas de Uxkhal
+p_kartand|Kartand
+p_calrad_temple_b|Templo de Minerva
+p_zendar_harbour|Porto Zendar
+p_farm|Fazenda
+p_quarry_a|Minas
+p_quarry_b|Minas
+p_quarry_c|Minas
+p_quarry_d|Minas
+p_quarry_e|Minas Abandonadas
+p_quarry_f|Minas Abandonadas
+p_quarry_g|Minas Abandonadas
+p_quarry_h|Minas Abandonadas
+p_forest_a|Floresta
+p_forest_b|Floresta
+p_forest_c|Floresta
+p_forest_d|Floresta
+p_forest_e|Floresta
+p_forest_end|Fim da Floresta
+p_crusade_gatherpoint|Acampamento Cruzado
+p_jihad_gatherpoint|Acampamento Jihad
+p_temp_crusade_party_a|x
+p_temp_crusade_party_b|x
+p_temp_crusade_party_c|x
+p_temp_crusade_party_d|x
+p_temp_crusade_party_e|x
+p_temp_crusade_party_f|x
+p_burning_buildings|Se você me ver, reporte o bug de fogo.
+p_ship_colisions|Se você me ver, reporte o bug de colisão.
+p_port_1|Porto
+p_port_2|Praia
+p_port_3|Praia
+p_port_4|Praia
+p_port_5|Praia
+p_port_6|Praia
+p_port_7|Praia
+p_port_8|Praia
+p_port_9|Praia
+p_port_10|Praia
+p_port_11|Praia
+p_port_12|Praia
+p_port_13|Praia
+p_port_14|Praia
+p_port_15|Praia
+p_port_16|Praia
+p_port_17|Praia
+p_port_18|Praia
+p_port_19|Praia
+p_port_20|Praia
+p_port_21|Praia
+p_port_23|Praia
+p_port_22|Praia
+p_port_24|Porto
+p_port_25|Porto
+p_port_26|Porto
+p_port_27|Porto
+p_port_28|Porto
+p_ports_end|(FIM)
+p_pirate_spawnpoint_1|Esconderijo de Piratas
+p_pirate_spawnpoint_2|Esconderijo de Piratas
+p_pirate_spawnpoint_3|Esconderijo de Piratas
+p_pirate_spawnpoint_4|Esconderijo de Piratas
+p_pirate_spawnpoint_5|Esconderijo de Piratas
+p_pirate_spawnpoint_6|Esconderijo de Piratas
+p_pirate_spawnpoint_7|Esconderijo de Piratas
+p_pirate_spawnpoint_8|Esconderijo de Piratas
+p_pirate_spawnpoint_9|Esconderijo de Piratas
+p_pirate_spawnpoint_10|Esconderijo de Piratas
+p_pirate_spawnpoint_11|Esconderijo de Piratas
+p_pirate_spawnpoint_12|Esconderijo de Piratas
+p_pirate_spawnpoint_13|Esconderijo de Piratas
+p_pirate_spawnpoint_14|Esconderijo de Piratas
+p_pirate_spawnpoints_end|Esconderijo de Piratas
+p_tribesmen_spawnpoint_1|x
+p_tribesmen_spawnpoint_2|x
+p_tribesmen_spawnpoint_3|x
+p_tribesmen_spawnpoint_4|x
+p_tribesmen_spawnpoint_5|x
+p_tribesmen_spawnpoint_6|x
+p_tribesmen_spawnpoint_7|x
+p_tribesmen_spawnpoint_8|x
+p_tribesmen_spawnpoint_9|x
+p_tribesmen_spawnpoint_10|x
+p_tribesmen_spawnpoint_11|x
+p_tribesmen_spawnpoint_12|x
+p_tribesmen_spawnpoint_13|x
+p_tribesmen_spawnpoint_14|x
+p_tribesmen_spawnpoints_end|xx
+p_map_rocks_1|
+p_map_rocks_2|
+p_map_rocks_3|
+p_map_rocks_4|
+p_map_rocks_5|
+p_map_rocks_6|
+p_map_rocks_7|
+p_map_rocks_8|
+p_map_decoratives_end|
